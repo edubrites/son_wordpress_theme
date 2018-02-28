@@ -1,0 +1,21 @@
+/*
+    Theme Name: Blog da School of Net
+    Theme URI: http://dhrn.com.br
+    Author: Eduardo Brites
+    Author URI: http://github.com/eduabrites
+    Description: Tema do blog do curso da Scholl of Net
+    Version: 1.0
+    License: MIT
+    License URI: http://dhrn.com.br
+    Tags: programação, cursos, categorias, tags, posts
+    Text Domain: sonblog
+ */
+
+.footer{
+    background-color: black;
+    color: #fff;
+}
+
+.footer .container{
+    padding-top: 10px;
+}
